@@ -18,9 +18,9 @@ Reusable Terraform module to manage AWS IAM Access Analyzer at organization or a
 ## 🗂️ Project Structure
 
 - `modules/` – Terraform modules
-  - [Analyzer](https://github.com/Hopper-Tec/terraform-module-aws-access-analyzer/tree/main/modules/analyzer)
+  - [Analyzer](https://github.com/Hopper-Tec/geomaps-terraform-module-aws-access-analyzer/tree/main/modules/analyzer)
 - `examples/` – Usage examples
-  - [Analyzer](https://github.com/Hopper-Tec/terraform-module-aws-access-analyzer/tree/main/examples/analyzer)
+  - [Analyzer](https://github.com/Hopper-Tec/geomaps-terraform-module-aws-access-analyzer/tree/main/examples/analyzer)
 
 ---
 
